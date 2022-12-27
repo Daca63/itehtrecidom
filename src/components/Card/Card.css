@@ -1,0 +1,17 @@
+.card {
+  padding: 0.5rem;
+  background-color: #eae7b1;
+  border-radius: 12px;
+  border: #61876e 1px solid;
+}
+
+.clickable:hover {
+  cursor: pointer;
+  box-shadow: 1px 0px 29px -13px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 1px 0px 29px -13px rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 0px 29px -13px rgba(0,0,0,0.75);
+}
+
+.selected {
+    border: #61876e 3px solid;
+}

@@ -1,0 +1,16 @@
+.Win {
+    background-color: #61876E;
+}
+.Lose {
+    background-color: #ff7940;
+}
+.Tie{
+    background-color: #d3ff4e;
+}
+
+.result-card{
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    line-height: 5rem;
+}
