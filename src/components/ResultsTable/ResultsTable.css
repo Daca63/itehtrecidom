@@ -1,0 +1,18 @@
+.delete-icon:hover{
+    cursor: pointer;
+}
+
+table {
+    border: 2px solid #61876E;
+    max-width: 800px;
+    min-width: 550px;
+    text-align: center;
+    border-radius: 1rem;
+    padding: .5rem 1rem;
+    border-spacing: 0;
+}
+
+table tr td{
+    border-top: 1px solid #61876E;
+    padding: .5rem 0;
+}
